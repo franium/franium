@@ -1,5 +1,7 @@
 # ¡Hola! Soy Fran 👋
 
+### Backend Developer · Python &amp; APIs · explorando Go ⚙️
+
 Desarrollador de software con trayectoria iniciada en 2019. Mi camino comenzó con las bases de la web y ha evolucionado hacia la construcción de sistemas robustos y eficientes.
 
 A lo largo de estos años he transformado mi metodología de trabajo priorizando el dominio de las herramientas y la agilidad técnica. Soy un entusiasta del flujo de trabajo en Neovim y de la mejora continua en la eficiencia de escritura y desarrollo. Me motiva construir proyectos que no solo funcionen, sino que estén respaldados por buenas prácticas y un conocimiento profundo del stack.
@@ -30,6 +32,17 @@ Actualmente enfocado en el ecosistema de **Python**, con amplia experiencia en e
 ## 🚀 Actualmente profundizando en
 
 ![Golang](https://img.shields.io/badge/Golang-1aa7ec?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)
+
+## 📌 Proyectos Destacados
+
+- **[validium](https://github.com/franium/validium)** &nbsp;·&nbsp; ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  CLI para validar archivos `.env` contra un schema tipado (tipos, rangos, formatos) con cifrado *age* integrado para compartir secretos de forma segura.
+
+- **[wth](https://github.com/franium/wth)** &nbsp;·&nbsp; ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  CLI minimalista del tiempo: temperatura, humedad y viento de varias ciudades guardadas, con indicadores de color, sobre la API de OpenWeatherMap.
+
+- **[nvim](https://github.com/franium/nvim)** &nbsp;·&nbsp; ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+  Mi configuración personal de Neovim: el flujo de trabajo con el que desarrollo cada día.
 
 ## 📊 Estadísticas
 
