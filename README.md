@@ -44,13 +44,6 @@ Actualmente enfocado en el ecosistema de **Python**, con amplia experiencia en e
 - **[nvim](https://github.com/franium/nvim)** &nbsp;·&nbsp; ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
   Mi configuración personal de Neovim: el flujo de trabajo con el que desarrollo cada día.
 
-## 📊 Estadísticas
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats-franjfs-projects.vercel.app/api?username=franium&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=101010&icon_color=1aa7ec" alt="Estadísticas de GitHub de Fran" />
-  <img height="165" src="https://github-readme-stats-franjfs-projects.vercel.app/api/top-langs/?username=franium&layout=compact&theme=dark&hide_border=true&bg_color=101010&langs_count=8" alt="Lenguajes más usados" />
-</p>
-
 ## 🌐 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FranJF-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francisco-javier-castillo-fernandez)
